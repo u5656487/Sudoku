@@ -1,0 +1,10 @@
+*.hi
+*.o
+*.aux
+*.log
+*.out
+*#
+.idea
+dist
+auto
+src
